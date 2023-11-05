@@ -4,7 +4,7 @@
 
 **Computer Science + Psychology @ uWaterloo**
 
-I am:
+A little bit about me:
 - interested in cognitive science and philosophy of mind
 - a pianist, guitarist and lover of all forms of music
 - an avid social deception gamer
@@ -19,6 +19,5 @@ I am:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 ***
