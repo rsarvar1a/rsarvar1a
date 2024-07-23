@@ -2,7 +2,7 @@
 
 ***
 
-**Software Engineer @ [Replicant](https://replicant.com)**
+**Software Engineer @ [Replicant](https://replicant.com)**  
 **Computer Science + Psychology @ uWaterloo**
 
 A little bit about me:
