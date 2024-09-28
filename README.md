@@ -14,9 +14,13 @@ A little bit about me:
 
 A few of my projects:
 
-- 🐝 **[hivemind](https://github.com/rsarvar1a/hivemind)** 🐝
-  - the game of Hive, written in (mostly safe) Rust
+- **[hivemind](https://github.com/rsarvar1a/hivemind)**
+  - the game of Hive 🐝, written in (mostly safe) Rust
   - and a fast lockfree parallel alpha-beta agent
+
+- **[bureaucrat](https://github.com/rsarvar1a/bureaucrat)**
+  - a discord.py bot that manages games, custom scripts, and archives
+  - built and maintained for the University of Waterloo's Blood on the Clocktower club
 
 - **[mdepth](https://github.com/rsarvar1a/mdepth)**
   - a self-supervised monocular depth estimation model written in PyTorch
@@ -25,9 +29,8 @@ A few of my projects:
 - **[scriptmaker](https://github.com/rsarvar1a/scriptmaker)**
   - a Python package providing a PDF pretty-printer (that's a lot of Ps)
   - parses and styles custom content in the social deception game Blood on the Clocktower
-  
-- **[scriptmaker.fly.dev](https://github.com/rsarvar1a/scriptmaker-io)**
-  - a Node & React webapp that makes scriptmaker more accessible
+  - I started using official assets on my scripts, so I am taking it private to respect The Pandemonium Institute's IP
+  - check out [my script repo](https://github.com/rsarvar1a/botcscripts) for examples of its output
 
 ***
 
