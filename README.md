@@ -2,8 +2,8 @@
 
 ***
 
-**FDE I @ [Federato](https://www.federato.ai)**
-**Computer Science + Psychology @ uWaterloo**
+**FDE I @ [Federato](https://www.federato.ai)**  
+**Computer Science + Psychology @ uWaterloo**  
 **previously @ Replicant, BetterUp** 
 
 A little bit about me:
