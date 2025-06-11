@@ -2,8 +2,9 @@
 
 ***
 
-**Software Engineer @ [Replicant](https://replicant.com)**  
+**FDE I @ [Federato](https://www.federato.ai)**
 **Computer Science + Psychology @ uWaterloo**
+**previously @ Replicant, BetterUp** 
 
 A little bit about me:
 - interested in cognitive science and philosophy of mind
